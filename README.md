@@ -1,3 +1,4 @@
+````markdown
 # 🚀 Marketing Analytics & Forecasting System  
 
 ## 📌 Overview  
@@ -99,3 +100,32 @@ Notebook: Marketing Analytics & Forecasting System_datacleaning &metrics.ipynb
 
 ```bash
 pip install pandas matplotlib
+````
+
+```python
+import pandas as pd
+df = pd.read_excel("Raw Data Marketing.xlsx")
+```
+
+* Run the notebook step-by-step
+* Generate KPIs and reports
+* Visualize trends and forecasts
+
+---
+
+## 🧩 Future Improvements
+
+* Add SQL integration for scalability
+* Use advanced forecasting models (ARIMA / ML)
+* Connect real-time APIs (Google Ads, Meta Ads)
+* Automate reporting pipelines
+
+---
+
+## 👤 Author
+
+**Payaswini**
+Aspiring Data Analyst | Marketing Analytics Enthusiast
+
+```
+```
