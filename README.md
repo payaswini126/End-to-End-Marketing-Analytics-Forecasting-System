@@ -31,10 +31,9 @@ Notebook: Marketing Analytics & Forecasting System_datacleaning &metrics.ipynb
 ---
 
 ## ⚙️ Tech Stack  
-- Python (Pandas, NumPy)  
-- MS Excel (Advanced Analytics & Dashboarding)  
-- Power BI (Optional Visualization)  
-- Jupyter Notebook / Google Colab  
+- Python 
+- MS Excel (Advanced Analytics & Dashboarding)   
+- Jupyter Notebook  
 - GitHub  
 
 ---
